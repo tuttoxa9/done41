@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Этот файл разрешает индексировать весь сайт поисковым системам
+# Укажите домен на котором будет размещен сайт
+Host: https://unicservices.ru
+Sitemap: https://unicservices.ru/sitemap.xml
+
+Clean-param: utm_source&utm_medium&utm_campaign
